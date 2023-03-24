@@ -18,10 +18,19 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+<<<<<<< Updated upstream
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
       home: const HomePage(),
     );
+=======
+        title: 'Flutter Demo',
+        debugShowCheckedModeBanner: false,
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        home: HomePage());
+>>>>>>> Stashed changes
   }
 }

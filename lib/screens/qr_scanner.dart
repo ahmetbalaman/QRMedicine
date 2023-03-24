@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
+=======
+//DENEME KOD BLOĞU
+
+>>>>>>> Stashed changes
 import 'dart:async';
 import 'dart:io' show Platform;
 
